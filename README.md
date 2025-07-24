@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/163ad99a-b378-4efe-8249-421c17a085d7
 # 🏰 Procedural Castle Environment – Houdini to Unreal Workflow
 
 This project is a procedurally generated medieval castle scene built in Unreal Engine 5 using Houdini Engine. The castle, terrain, and supplementary props were all generated with parameterized tools, allowing for dynamic variation at runtime. Designed as a demonstration of PCG principles, the scene emphasizes structural cohesion, visual quality, and modular reusability.
@@ -17,4 +19,3 @@ This project is a procedurally generated medieval castle scene built in Unreal E
 Unreal Engine 5 • Houdini Engine • HDA Design • Procedural Modeling • Runtime PCG • Scene Composition • Cinematic Sequencing
 
 Uploading Procedural Castle Environment Compressed.mp4…
-
